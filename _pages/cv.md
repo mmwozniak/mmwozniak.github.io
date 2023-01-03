@@ -6,12 +6,20 @@ permalink: /cv/
 author_profile: true
 ---
 
+<style type='text/css'>
+body {
+font-size: 18px;
+}
+p {
+font-size: 90%;
+}
+</style>
 
 <p><strong><span style="color: #000000;">CURRENT EMPLOYMENT</span></strong></p>
 
-<div style="font-size:80%;"><strong> Postdoctoral Researcher in Cognitive Science </strong>(2020 - present) <br/>
+<p style="font-size:80%;"><strong> Postdoctoral Researcher in Cognitive Science </strong>(2020 - present) <br/>
 <a href="https://socialmind.ceu.edu/somby" target="_blank">Social Mind and Body Lab</a> <br/>
-Central European University, Vienna, Austria<br/></div>
+Central European University, Vienna, Austria<br/></p>
   
 <p><strong><span style="color: #000000;">POSTDOC RESEARCH EMPLOYMENT</span></strong></p>
 
