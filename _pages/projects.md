@@ -5,9 +5,12 @@ description: Mateusz Woźniak | Postdoctoral Researcher in Cognitive Science | C
 permalink: /projects/
 collection: portfolio
 entries_layout: grid
+author_profile: true
 
 ---
 
-# DATA SCIENCE/RESEARCH PROJECTS
+### DATA SCIENCE/RESEARCH PROJECTS
+
+Cultu
 
 
