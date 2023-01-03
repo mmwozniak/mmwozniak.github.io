@@ -1,8 +1,8 @@
 ---
 title: CV
-layout: home
+layout: default
 description: Mateusz Woźniak | Central European University
-permalink: /cv
+permalink: /cv/
 ---
 
 Email: xxx
