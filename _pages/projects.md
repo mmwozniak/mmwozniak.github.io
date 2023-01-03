@@ -11,6 +11,8 @@ author_profile: true
 
 ### DATA SCIENCE/RESEARCH PROJECTS
 
-Cultu
+Project 1
+Project 2
+Project 3
 
 
