@@ -31,22 +31,22 @@ Ciaunica, A., McEllin, L., Kiverstein, J., Hohwy, J., **Woźniak, M.** (2022) Zo
 
 <p><span style="color: #000000;"><strong>2020</strong></span></p>
 
-**Woźniak, M.**, Hohwy, J. (2020) Stranger to my face: top-down and bottom-up effects underlying prioritization of images of one’s face. *PLoS ONE, 15*(7): e0235627. [https://doi.org/10.1371/journal.pone.0235627](https://doi.org/10.1371/journal.pone.0235627)  
+**Woźniak, M.**, Hohwy, J. (2020) Stranger to my face: top-down and bottom-up effects underlying prioritization of images of one’s face. *PLoS ONE, 15*(7): e0235627. <a href="https://doi.org/10.1371/journal.pone.0235627" target="_blank">https://doi.org/10.1371/journal.pone.0235627</a>
 
 <p><span style="color: #000000;"><strong>2019</strong></span></p>
 
-**Woźniak, M.**, Knoblich, G. (2019) Self-prioritization of fully unfamiliar stimuli. *Quarterly Journal of Experimental Psychology. 72*(8), 2110–2120. [https://doi.org/10.1177/1747021819832981](https://doi.org/10.1177/1747021819832981)
+**Woźniak, M.**, Knoblich, G. (2019) Self-prioritization of fully unfamiliar stimuli. *Quarterly Journal of Experimental Psychology. 72*(8), 2110–2120. <a href="https://doi.org/10.1177/1747021819832981" target="_blank">https://doi.org/10.1177/1747021819832981</a>
 
-Kourtis, D., **Woźniak, M.**, Sebanz, N., Knoblich, G. (2019) Evidence for We-representations during joint action planning. *Neuropsychologia, 131*, 73-83. [https://doi.org/10.1016/j.neuropsychologia.2019.05.029](https://doi.org/10.1016/j.neuropsychologia.2019.05.029)
+Kourtis, D., **Woźniak, M.**, Sebanz, N., Knoblich, G. (2019) Evidence for We-representations during joint action planning. *Neuropsychologia, 131*, 73-83. <a href="https://doi.org/10.1016/j.neuropsychologia.2019.05.029" target="_blank">https://doi.org/10.1016/j.neuropsychologia.2019.05.029</a>
 
 <p><span style="color: #000000;"><strong>2018</strong></span></p>
 
-**Woźniak, M.** (2018) “I” and “Me”: the self in the context of consciousness. *Frontiers in Psychology, 9*, 1656. [https://doi.org/10.3389/fpsyg.2018.01656](https://doi.org/10.3389/fpsyg.2018.01656)
+**Woźniak, M.** (2018) “I” and “Me”: the self in the context of consciousness. *Frontiers in Psychology, 9*, 1656. <a href="https://doi.org/10.3389/fpsyg.2018.01656" target="_blank">https://doi.org/10.3389/fpsyg.2018.01656</a>
 
-**Woźniak, M.**, Kourtis, D., Knoblich, G. (2018) Prioritization of arbitrary faces associated to self: An EEG study. *PLoS ONE, 13*(1), e0190679. [https://doi.org/10.1371/journal.pone.0190679](https://doi.org/10.1371/journal.pone.0190679)
+**Woźniak, M.**, Kourtis, D., Knoblich, G. (2018) Prioritization of arbitrary faces associated to self: An EEG study. *PLoS ONE, 13*(1), e0190679. <a href="https://doi.org/10.1371/journal.pone.0190679" target="_blank">https://doi.org/10.1371/journal.pone.0190679</a>
 
 <p><span style="color: #000000;"><strong>2014</strong></span></p>
 
-Kourtis, D., Knoblich, G., **Woźniak, M.**, Sebanz, N. (2014) Attention Allocation and Task Representation during Joint Action Planning. *Journal of Cognitive Neuroscience, 26*(10), 2275-86. [https://doi.org/10.1162/jocn_a_00634](https://doi.org/10.1162/jocn_a_00634)
+Kourtis, D., Knoblich, G., **Woźniak, M.**, Sebanz, N. (2014) Attention Allocation and Task Representation during Joint Action Planning. *Journal of Cognitive Neuroscience, 26*(10), 2275-86. <a href="https://doi.org/10.1162/jocn_a_00634" target="_blank">https://doi.org/10.1162/jocn_a_00634</a>
 
 
