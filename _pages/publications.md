@@ -6,7 +6,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-<base target="_blank">
 
 <p><span style="color: #000000;"><strong>LINKS TO PUBLICATION PROFILES</strong></span></p>
 <ul>
