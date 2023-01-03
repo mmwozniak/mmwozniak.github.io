@@ -1,6 +1,6 @@
 ---
 title: CV
-layout: default
+layout: splash
 description: Mateusz Woźniak | Central European University
 permalink: /cv/
 ---
