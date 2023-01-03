@@ -6,14 +6,13 @@ permalink: /cv/
 author_profile: true
 ---
 
-<font size="-1">
 
 <p><strong><span style="color: #000000;">CURRENT EMPLOYMENT</span></strong></p>
 
 <strong> Postdoctoral Researcher in Cognitive Science </strong>(2020 - present) <br/>
 [Social Mind and Body Lab](https://socialmind.ceu.edu/somby) <br/>
 Central European University, Vienna, Austria<br/>
-
+  
 <p><strong><span style="color: #000000;">PREVIOUS EMPLOYMENT</span></strong></p>
 
 <strong> Postdoctoral Researcher in Cognitive Science </strong>(2019-20) <br/>
@@ -42,5 +41,5 @@ Jagiellonian University, Cracow, Poland<br />
 Central European University, Budapest, Hungary<br/>
 <em>Work area: </em>EEG methods<br />
 
-</font>
+
   
