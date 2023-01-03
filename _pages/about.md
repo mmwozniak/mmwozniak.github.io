@@ -1,6 +1,6 @@
 ---
 title: "About"
-layout: home
+layout: single
 description: Mateusz Woźniak | Postdoctoral Researcher in Cognitive Science | Central European University
 permalink: /about/
 author_profile: true
