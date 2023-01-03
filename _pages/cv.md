@@ -6,7 +6,7 @@ permalink: /cv/
 author_profile: true
 ---
 
-{
+@settings {
   font-size: 30;
 }
 
