@@ -1,6 +1,6 @@
 ---
 title: Scientific publications
-layout: single
+layout: home
 description: Mateusz Woźniak | Postdoctoral Researcher in Cognitive Science | Central European University
 permalink: /papers/
 ---
