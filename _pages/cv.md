@@ -12,7 +12,7 @@ author_profile: true
 <a href="https://socialmind.ceu.edu/somby" target="_blank">Social Mind and Body Lab</a> <br/>
 Central European University, Vienna, Austria<br/></p>
   
-<p><strong><span style="color: #000000;">POSTDOC RESEARCH EMPLOYMENT</span></strong></p>
+<p><strong><span style="color: #000000;">POSTDOCTORAL RESEARCH EMPLOYMENT</span></strong></p>
 
 <p style="font-size: 80%;"><strong> Postdoctoral Researcher in Cognitive Science </strong>(2019-20) <br/>
 <a href="https://socialmind.ceu.edu/somby" target="_blank">Social Mind and Body Lab</a> <br/>
