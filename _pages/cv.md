@@ -6,7 +6,7 @@ permalink: /cv/
 author_profile: true
 ---
 
-<font size="-2">
+<font size="-1">
 
 <p><strong><span style="color: #000000;">CURRENT EMPLOYMENT</span></strong></p>
 
