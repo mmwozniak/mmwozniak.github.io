@@ -7,6 +7,6 @@ main:
   - title: "Projects"
     url: /projects/projects.md
   - title: "Papers"
-    url: /papers.md
+    url: /papers/
   - title: "CV"
-    url: https://mmwozniak.github.io/_pages/cv.md
+    url: /cv/
