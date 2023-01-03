@@ -10,28 +10,28 @@ author_profile: true
 <p><strong><span style="color: #000000;">CURRENT EMPLOYMENT</span></strong></p>
 
 <strong> Postdoctoral Researcher in Cognitive Science </strong>(2020 - present) <br/>
-[Social Mind and Body Lab](https://socialmind.ceu.edu/somby) <br/>
+<a href="https://socialmind.ceu.edu/somby" target="_blank">Social Mind and Body Lab</a> <br/>
 Central European University, Vienna, Austria<br/>
   
 <p><strong><span style="color: #000000;">POSTDOC RESEARCH EMPLOYMENT</span></strong></p>
 
 <strong> Postdoctoral Researcher in Cognitive Science </strong>(2019-20) <br/>
-[Social Mind and Body Lab](https://socialmind.ceu.edu/somby) <br/>
+<a href="https://socialmind.ceu.edu/somby" target="_blank">Social Mind and Body Lab</a> <br/>
 Central European University, Budapest, Hungary<br/>
 
 <strong> Postdoctoral Research Fellow </strong>(2017-19) <br/>
-[Cognition and Philosophy Lab](https://www.monash.edu/arts/cognition-and-philosophy-lab) <br/>
+<a href="https://www.monash.edu/arts/cognition-and-philosophy-lab" target="_blank">Cognition and Philosophy Lab</a> <br/>
 Monash University, Melbourne, Australia <br/>
 
   
 <p><strong><span style="color: #000000;">EDUCATION </span></strong></p>
 
 <strong>PhD, Psychology </strong>(2017)<br />
-[Institute of Psychology](https://psychologia.uj.edu.pl/en_GB/start)<br />
+<a href="https://psychologia.uj.edu.pl/en_GB/start" target="_blank">Institute of Psychology</a><br />
 Jagiellonian University, Cracow, Poland<br />
 
 <strong>MA, Applied Psychology </strong>(2010)<br />
-[Institute of Applied Psychology](https://ips.uj.edu.pl/en_GB/start-en) <br />
+<a href="https://ips.uj.edu.pl/en_GB/start-en" target="_blank">Institute of Applied Psychology</a><br />
 Jagiellonian University, Cracow, Poland<br />
 
 
