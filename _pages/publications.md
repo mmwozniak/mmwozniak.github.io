@@ -20,7 +20,7 @@ author_profile: true
 
 <p><span style="color: #000000;"><strong>2022</strong></span></p>
 
-**Woźniak, M.**, Schmidt, T.T., Wu, YH., Blankenburg, F., Hohwy, F. (2022). Differences in working memory coding of biological motion attributed to oneself and others. *Human Brain Mapping, 43*(12), 3721-3734. DOI: <a href="https://doi.org/10.1002/hbm.25879">10.1002/hbm.25879</a></p>
+**Woźniak, M.**, Schmidt, T.T., Wu, YH., Blankenburg, F., Hohwy, F. (2022). Differences in working memory coding of biological motion attributed to oneself and others. *Human Brain Mapping, 43*(12), 3721-3734. [https://doi.org/10.1002/hbm.25879](https://doi.org/10.1002/hbm.25879)
 
 **Woźniak, M.**, Knoblich, G. (2022) Communication and action predictability: two complementary strategies for successful cooperation. *Royal Society Open Science, 9*, 220577. [https://doi.org/10.1098/rsos.220577](https://doi.org/10.1098/rsos.220577) 
 
