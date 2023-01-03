@@ -11,8 +11,8 @@ author_profile: true
 <p><span style="color: #000000;"><strong>LINKS TO PUBLICATION PROFILES</strong></span></p>
 <ul>
   <p style="text-align:center">
-<li><a href="https://scholar.google.de/citations?user=LDYVfiQAAAAJ&hl=en">Google Scholar</a></li>
-<li><a href="https://www.researchgate.net/profile/Mateusz-Wozniak-6">ResearchGate</a></li>
+<li><a href="https://scholar.google.de/citations?user=LDYVfiQAAAAJ&hl=en" target="_blank">Google Scholar</a></li>
+<li><a href="https://www.researchgate.net/profile/Mateusz-Wozniak-6" target="_blank">ResearchGate</a></li>
 </p>
 </ul>
 
@@ -20,15 +20,15 @@ author_profile: true
 
 <p><span style="color: #000000;"><strong>2022</strong></span></p>
 
-**Woźniak, M.**, Schmidt, T.T., Wu, YH., Blankenburg, F., Hohwy, F. (2022). Differences in working memory coding of biological motion attributed to oneself and others. *Human Brain Mapping, 43*(12), 3721-3734. [https://doi.org/10.1002/hbm.25879](https://doi.org/10.1002/hbm.25879)
+**Woźniak, M.**, Schmidt, T.T., Wu, YH., Blankenburg, F., Hohwy, F. (2022). Differences in working memory coding of biological motion attributed to oneself and others. *Human Brain Mapping, 43*(12), 3721-3734. <a href="https://doi.org/10.1002/hbm.25879" target="_blank">https://doi.org/10.1002/hbm.25879</a>
 
-**Woźniak, M.**, Knoblich, G. (2022) Communication and action predictability: two complementary strategies for successful cooperation. *Royal Society Open Science, 9*, 220577. [https://doi.org/10.1098/rsos.220577](https://doi.org/10.1098/rsos.220577) 
+**Woźniak, M.**, Knoblich, G. (2022) Communication and action predictability: two complementary strategies for successful cooperation. *Royal Society Open Science, 9*, 220577. <a href="https://doi.org/10.1098/rsos.220577" target="_blank">https://doi.org/10.1098/rsos.220577</a>
 
-Chennells, M., **Woźniak, M.**, Butterfill, S., Michael, J. (2022) Coordinated Decision-Making Boosts Altruistic Motivation – But Not Trust. *PLoS ONE, 17*(10): e0272453. [https://doi.org/10.1371/journal.pone.0272453](https://doi.org/10.1371/journal.pone.0272453)
+Chennells, M., **Woźniak, M.**, Butterfill, S., Michael, J. (2022) Coordinated Decision-Making Boosts Altruistic Motivation – But Not Trust. *PLoS ONE, 17*(10): e0272453. <a href="https://doi.org/10.1371/journal.pone.0272453" target="_blank">https://doi.org/10.1371/journal.pone.0272453</a>
 
-Ciaunica, A., McEllin, L., Kiverstein, J., Hohwy, J., **Woźniak, M.** (2022) Zoomed out – digital media use and depersonalization experiences during the COVID-19 lockdown. *Scientific Reports, 12*(1), 3888. [https://doi.org/10.1038/s41598-022-07657-8](https://doi.org/10.1038/s41598-022-07657-8)
+Ciaunica, A., McEllin, L., Kiverstein, J., Hohwy, J., **Woźniak, M.** (2022) Zoomed out – digital media use and depersonalization experiences during the COVID-19 lockdown. *Scientific Reports, 12*(1), 3888. <a href="https://doi.org/10.1038/s41598-022-07657-8" target="_blank">https://doi.org/10.1038/s41598-022-07657-8</a>
 
-**Woźniak, M.**, Knoblich, G. (2022) Self-prioritization depends on assumed task-relevance of self-association. *Psychological Research, 86*, 1599-1614 [https://doi.org/10.1007/s00426-021-01584-5](https://doi.org/10.1007/s00426-021-01584-5)
+**Woźniak, M.**, Knoblich, G. (2022) Self-prioritization depends on assumed task-relevance of self-association. *Psychological Research, 86*, 1599-1614. <a href="https://doi.org/10.1007/s00426-021-01584-5" target="_blank">https://doi.org/10.1007/s00426-021-01584-5</a>
 
 <p><span style="color: #000000;"><strong>2020</strong></span></p>
 
