@@ -6,11 +6,9 @@ permalink: /cv/
 author_profile: true
 ---
 
-@settings {
-  font-size: 30;
-}
+<font size="-2">
 
-<p><strong><span style="color: #000000;">CURRENT EMPLOYMENT</span></strong></p>
+<p>><strong><span style="color: #000000;">CURRENT EMPLOYMENT</span></strong></p>
 
 <strong> Postdoctoral Researcher in Cognitive Science </strong>(2020 - present) <br/>
 [Social Mind and Body Lab](https://socialmind.ceu.edu/somby) <br/>
@@ -43,3 +41,6 @@ Jagiellonian University, Cracow, Poland<br />
 [Social Mind and Body Lab](https://socialmind.ceu.edu/somby) <br/>
 Central European University, Budapest, Hungary<br/>
 <em>Work area: </em>EEG methods<br />
+
+</font>
+  
