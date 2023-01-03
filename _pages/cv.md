@@ -34,12 +34,26 @@ Jagiellonian University, Cracow, Poland<br />
 [Institute of Applied Psychology](https://ips.uj.edu.pl/en_GB/start-en) <br />
 Jagiellonian University, Cracow, Poland<br />
 
-<p><strong><span style="color: #000000;">SELECT ADDITIONAL RESEARCH EXPERIENCE</span></strong></p>
+
+<p><strong><span style="color: #000000;">OTHER RESEARCH EXPERIENCE</span></strong></p>
+
+<strong>Visiting Postdoctoral Researcher </strong>(2017-19)<br />
+Neurocomputation and Neuroimaging Unit <br/>
+Free University Berlin, Berlin, Germany<br/>
+<em>Work area: </em>fMRI<br />
 
 <strong>EEG Lab Manager </strong>(2015-17)<br />
-[Social Mind and Body Lab](https://socialmind.ceu.edu/somby) <br/>
+Social Mind and Body Lab <br/>
 Central European University, Budapest, Hungary<br/>
-<em>Work area: </em>EEG methods<br />
+<em>Work area: </em>EEG<br />
 
+<strong>Research intern </strong>(2012)<br />
+Social Mind and Body Lab <br/>
+Donders Institute, Nijmegen, Netherlands<br/>
+<em>Work area: </em>EEG<br />
+
+<strong>Research intern </strong>(2010)<br />
+Max Planck Institute for Cognitive and Brain Sciences, Leipzig, Germany<br/>
+<em>Work area: </em>Behavioural studies<br />
 
   
