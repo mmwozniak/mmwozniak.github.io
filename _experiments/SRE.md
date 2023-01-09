@@ -1,6 +1,6 @@
 ---
 
-title: "Self-reference Effect"
+title: "Self-Reference Effect"
 
 ---
 
