@@ -13,8 +13,15 @@ author_profile: true
         <img src="/assets/images/MW_pic_001.jpg">
       </td>
       <td width="50%">
-        <p><b>Email address:</b> < /br>wozniakm [at] ceu.edu</p>
-        <p><b>Mail address:</b> wozniakm [at] ceu.edu</p>
+        <p><b>Email address:</b> <br>wozniakm [at] ceu.edu</p>
+        <p>
+          <b>Mail address:</b> <br>
+          Department of Cognitive Science <br>
+          Central European University <br>
+          Quellenstrasse 51 <br>
+          1100 Vienna <br>
+          Austria
+        </p>
       </td>
     </tr>
   </table>
