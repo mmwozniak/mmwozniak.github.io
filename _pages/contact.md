@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 <div>
-  <table>
+  <table cellspacing="0" cellpadding="0">
     <tr>
       <td>
         <img src="/assets/images/MW_pic_001.jpg">
