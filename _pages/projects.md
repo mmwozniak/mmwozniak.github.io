@@ -11,7 +11,7 @@ author_profile: true
 
 ### RESEARCH/PROGRAMMING/DATA SCIENCE PROJECTS
 
---- under construction ---
+<p style="font-size: 80%;">--- under construction --- </p>
 
 
 
