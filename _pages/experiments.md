@@ -9,5 +9,5 @@ author_profile: true
 
 ---
 
-<p>This page will contain links to developed experimental procedures.</p>
-<p>--- under construction ---</p>
+<p style="font-size: 80%;">This page will contain links to developed experimental procedures.</p>
+<p style="font-size: 80%;">--- under construction ---</p>
