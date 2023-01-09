@@ -27,4 +27,3 @@ author_profile: true
   </table>
 </div>
 
-style="border:hidden;" 
