@@ -4,6 +4,6 @@ title: "Self-reference Effect"
 
 ---
 
-An experiment to investigate Self-Reference Effect. Programmed in JavaScript using jsPsych framework.
+<p style="font-size: 80%;">An experiment to investigate Self-Reference Effect. Programmed in JavaScript using jsPsych framework.</p>
 
---- in development ---
+<p style="font-size: 80%;">--- in development --- </p>
