@@ -29,17 +29,17 @@ There are aspects of the self that are stable across our lives and others that c
 <h3>Neural mechanisms of self-representation</h3>
 <p style="font-size: 80%;">
 I am also interested in how we represent ourselves on a neural level. I conduct EEG and FMRI studies looking at
-  neural correlates of processing of self-related information. 
+  neural correlates of processing of newly self-associated information. I am especially interested in investigating how we incorporate avatar and robot bodies into our self-representation and whether it involves neurocognitive processes that are primarily responsible for our abstract or bodily self-representation.
 </p>
 
 <h3>Self and other in joint action</h3>
 <p style="font-size: 80%;">
- The ability to distinguish between self and other is critical when we interact with other people. 
+ The ability to distinguish between self and other is critical when we interact with other people. A part of my research involves investigating neurocognitive mechanisms at play when we either do a task together with another person (joint-action partner), or when we act through another agent (our avatar). 
 </p>
 
 <h3>Cultural evolution of the self</h3>
 <p style="font-size: 80%;">
-Our self-representations are shaped by society and culture. 
+Our self-representations are shaped by society and culture, and vice versa. My other line of research attempts to investigate this bidirectional interaction by employing methods from the field of cultural evolution theory. This involves looking at how processes of cultural transmission affect information about our social identity: the groups that we belong to.
 </p>
 
 
