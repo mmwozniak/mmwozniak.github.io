@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 <div>
-  <table cellspacing="0" cellpadding="0">
+  <table style="border:hidden;" cellspacing="0" cellpadding="0">
     <tr>
       <td>
         <img src="/assets/images/MW_pic_001.jpg">
@@ -20,7 +20,3 @@ author_profile: true
   </table>
 </div>
 
-<style>
-  table, tr {border:hidden;}
-  td, th {border:hidden;}
-</style>
