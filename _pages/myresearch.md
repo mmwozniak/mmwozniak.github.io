@@ -21,9 +21,9 @@ In my theoretical work I attempt to answer the questions: What is the self, how 
 
 <h2>RESEARCH</h2>
 
-<h3>Plasticity of self-representation</h3>
+<h3>Plasticity of bodily and abstract self-representation</h3>
 <p style="font-size: 80%;">
-There are aspects of the self that are stable across our lives and others that change in shorter and longer time scales.
+There are aspects of the self that are stable across our lives and others that change in shorter and longer time scales. Recent studies showed that we can easily associate even completely arbitrary information with the self, and as a consequence such information become processed in a preferential way. I use this finding to investigate how we integrate new abstract information and how we integrate digital and robotic bodies into our self-representation.
 </p>
 
 <h3>Neural mechanisms of self-representation</h3>
