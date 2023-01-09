@@ -19,3 +19,8 @@ author_profile: true
     </tr>
   </table>
 </div>
+
+<style>
+  table, tr {border:hidden;}
+  td, th {border:hidden;}
+</style>
