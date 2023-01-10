@@ -156,6 +156,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  - /jspsych-demos
   - /docs # Minimal Mistakes /docs
 exclude:
   - "*.sublime-project"
