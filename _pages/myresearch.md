@@ -15,8 +15,7 @@ In my scientific work I am primarily interested in social, psychological and neu
 
 <p style="font-size: 80%;">
 In my theoretical work I attempt to answer the questions: What is the self, how different types of self and identity relate to each other, and how cognitive development can be leveraged to dissociate them? 
-  Self and identity are extremely important in a wide range of disciplines starting with philosophy, through neuroscience, psychology, and ending with sociology and political science. Understading what is our self has also a range of practical implications in medicine, robotics, virtual reality, joint action, and politics. However, the self is usually understood in radically different ways in each of these contexts. My theoretical work attempts to show how these different understandings relate to each other, especially in the context of cognitive mechanisms that underpin them.
-  In my work I stress the need to distinguish between self-consciousness (our conscious experience of ourselves) and self-representation (the underlying neural and psychological representations that make that conscious experience possible). I also argue that neither of them can be treated as single and unified phenomena, but rather as networks of conscious states (self-consciousness) or mental representations (self-representation). 
+  Self and identity are extremely important in a wide range of disciplines starting with philosophy, through neuroscience, psychology, and ending with sociology and political science. Understading what is our self has also a range of practical implications in medicine, robotics, virtual reality, joint action, and politics. However, the self is usually understood in radically different ways in each of these contexts. My theoretical work attempts to show how these different understandings relate to each other, especially in the context of cognitive mechanisms that underpin them. 
 </p>
 
 <h2>RESEARCH</h2>
