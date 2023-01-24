@@ -20,7 +20,7 @@ title                    : "Home"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Mateusz Woźniak"
-description              : "Nothing to say."
+description              : "Mateusz Woźniak | Central European University, Vienna"
 url                      : "https://mmwozniak.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : "mmwozniak" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
