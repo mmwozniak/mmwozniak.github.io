@@ -2,8 +2,13 @@
 title: Contact
 layout: single
 description: Mateusz Woźniak | Central European University
-permalink: /contact/
 author_profile: true
+permalink: /contact/
+keywords:
+  - Mateusz Wozniak
+  - psychology
+  - cognitive neuroscience
+  - personal webpage
 ---
 
 <div>
