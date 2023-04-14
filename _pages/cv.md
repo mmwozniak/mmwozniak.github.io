@@ -33,6 +33,10 @@ Jagiellonian University, Cracow, Poland<br /></p>
 <a href="https://ips.uj.edu.pl/en_GB/start-en" target="_blank">Institute of Applied Psychology</a><br />
 Jagiellonian University, Cracow, Poland<br /></p>
 
+<p style="font-size: 80%;"><strong>Economy (completed 3 semesters)</strong>(2010)<br />
+<a href="https://ips.uj.edu.pl/en_GB/start-en" target="_blank">Institute of Economy</a><br />
+Cracow University of Economics , Cracow, Poland<br /></p>
+
 
 <p><strong><span style="color: #000000;">OTHER RESEARCH EXPERIENCE</span></strong></p>
 
