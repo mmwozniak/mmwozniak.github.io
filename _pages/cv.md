@@ -34,7 +34,7 @@ Jagiellonian University, Cracow, Poland<br /></p>
 Jagiellonian University, Cracow, Poland<br /></p>
 
 <p style="font-size: 80%;"><strong>Economy </strong>(2004-2006)<br />
-<a href="https://ips.uj.edu.pl/en_GB/start-en" target="_blank">Institute of Economy</a><br />
+<a href="https://uek.krakow.pl/en/" target="_blank">Institute of Economy</a><br />
 Cracow University of Economics , Cracow, Poland<br /></p>
 
 
