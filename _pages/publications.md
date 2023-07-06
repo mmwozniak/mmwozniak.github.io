@@ -17,6 +17,10 @@ author_profile: true
 
 <p><span style="color: #000000;"><strong>ACADEMIC PUBLICATIONS</strong></span></p>
 
+<p><span style="color: #000000;"><strong>2023</strong></span></p>
+
+<p style="font-size: 80%;"><b>Woźniak, M.</b>, McEllin, L., Hohwy, F., Ciaunica, A. (accepted). Depersonalization affects self-prioritization of bodily, but not abstract self-related information <i>Journal of Experimental Psychology: Human Perception and Performance</i>(12). <a href="https://psyarxiv.com/gsfy3" target="_blank">Preprint</a></p>
+
 <p><span style="color: #000000;"><strong>2022</strong></span></p>
 
 <p style="font-size: 80%;"><b>Woźniak, M.</b>, Schmidt, T.T., Wu, YH., Blankenburg, F., Hohwy, F. (2022). Differences in working memory coding of biological motion attributed to oneself and others. <i>Human Brain Mapping, 43</i>(12), 3721-3734. <a href="https://doi.org/10.1002/hbm.25879" target="_blank">https://doi.org/10.1002/hbm.25879</a></p>
