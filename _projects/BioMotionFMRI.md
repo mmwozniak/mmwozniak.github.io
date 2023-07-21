@@ -1,6 +1,6 @@
 ---
 
-title: "Neural correlates of self-associated movement"
+title: "Neural correlates of self-associated movements"
 
 ---
 
