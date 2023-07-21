@@ -8,7 +8,7 @@ title: "Neural correlates of self-associated movements"
 <p style="font-size: 80%">Our participants saw movements like this one and were told to play them in their memory as if they were watching THEMSELVES or ANOTHER person. </p>
 
 <div style="text-align: center;">
-  <p><img src="/assets/images/BioMotion_PLW.gif"  width="80%" height="80%"></p>
+  <p><img src="/assets/images/BioMotion_PLW.gif"  width="50%" height="50%"></p>
 </div>
 
 <p style="font-size: 80%">We recorded their brain activity with fMRI and used MVPA to find which brain areas showed different patterns of activity for self- and other-attributed movements </p>
