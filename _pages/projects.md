@@ -4,7 +4,7 @@ layout: collection
 description: Mateusz Woźniak | Postdoctoral Researcher in Cognitive Science | Central European University
 permalink: /projects/
 collection: projects
-entries_layout: grid
+entries_layout: list
 author_profile: true
 
 ---
