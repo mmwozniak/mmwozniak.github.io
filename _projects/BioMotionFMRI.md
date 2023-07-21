@@ -22,4 +22,4 @@ title: "Neural correlates of self-associated movements"
 <p style="font-size: 80%">Our findings show how different aspects of the self (body-related and abstract) involve activity in different brain areas</p>
 <p style="font-size: 80%"></p>
 
-<p style="font-size: 80%;"><b>Read more about our study here: Woźniak, M.</b>, Schmidt, T.T., Wu, YH., Blankenburg, F., Hohwy, J. (2022). Differences in working memory coding of biological motion attributed to oneself and others. <i>Human Brain Mapping, 43</i>(12), 3721-3734. <a href="https://doi.org/10.1002/hbm.25879" target="_blank">https://doi.org/10.1002/hbm.25879</a></p>
+<p style="font-size: 80%;"><b>Read more about our study here:</b> Woźniak, M., Schmidt, T.T., Wu, YH., Blankenburg, F., Hohwy, J. (2022). Differences in working memory coding of biological motion attributed to oneself and others. <i>Human Brain Mapping, 43</i>(12), 3721-3734. <a href="https://doi.org/10.1002/hbm.25879" target="_blank">https://doi.org/10.1002/hbm.25879</a></p>
