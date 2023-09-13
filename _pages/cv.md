@@ -8,11 +8,15 @@ author_profile: true
 
 <p><strong><span style="color: #000000;">CURRENT EMPLOYMENT</span></strong></p>
 
-<p style="font-size: 80%;"><strong> Postdoctoral Researcher in Cognitive Science </strong>(2020 - present) <br/>
-<a href="https://socialmind.ceu.edu/somby" target="_blank">Social Mind and Body Lab</a> <br/>
-Central European University, Vienna, Austria<br/></p>
+<p style="font-size: 80%;"><strong> Postdoctoral Researcher in Social Robotics </strong>(2023 - present) <br/>
+<a href="https://socialmind.ceu.edu/somby" target="_blank">Social Cognition in Human-Robot Interaction Lab</a> <br/>
+Italian Institute of Technology, Genova, Italy<br/></p>
   
 <p><strong><span style="color: #000000;">POSTDOCTORAL RESEARCH EMPLOYMENT</span></strong></p>
+
+<p style="font-size: 80%;"><strong> Postdoctoral Researcher in Cognitive Science </strong>(2020 - 2023) <br/>
+<a href="https://socialmind.ceu.edu/somby" target="_blank">Social Mind and Body Lab</a> <br/>
+Central European University, Vienna, Austria<br/></p>
 
 <p style="font-size: 80%;"><strong> Postdoctoral Researcher in Cognitive Science </strong>(2019-20) <br/>
 <a href="https://socialmind.ceu.edu/somby" target="_blank">Social Mind and Body Lab</a> <br/>
