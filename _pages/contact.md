@@ -8,6 +8,8 @@ keywords:
   - Mateusz Wozniak
   - psychology
   - cognitive neuroscience
+  - data science
+  - robotics
   - personal webpage
 ---
 
@@ -18,14 +20,14 @@ keywords:
         <img src="/assets/images/MW_pic_001.jpg">
       </td>
       <td width="50%">
-        <p><b>Email address:</b> <br>wozniakm [at] ceu.edu</p>
+        <p><b>Email address:</b> <br>wozniakm [at] iit.it</p>
         <p>
           <b>Mail address:</b> <br>
-          Department of Cognitive Science <br>
-          Central European University <br>
-          Quellenstrasse 51 <br>
-          1100 Vienna <br>
-          Austria
+          Italian Institute of Technology <br>
+          Erzelli Campus, S4HRI Lab <br>
+          Via Enrico Melen 83 <br>
+          16152 Genova <br>
+          Italy
         </p>
       </td>
     </tr>
