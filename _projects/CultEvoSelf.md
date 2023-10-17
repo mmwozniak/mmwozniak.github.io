@@ -13,3 +13,5 @@ title: "Cultural Evolution of Group Identity"
 <p style="font-size: 80%;">Read more detailed report from this study in our preprint: Woźniak, M., Charbonneau, M., Knoblich, G. <a href="https://osf.io/preprints/psyarxiv/ta9rq"  target="_blank">"Biases in cultural transmission of information about a minimal ingroup"</a> </p>
 
 <p style="font-size: 80%;">The project was run in collaboration with <a href="https://mathieucharbonneau.wordpress.com/"  target="_blank">Mathieu Charbonneau</a> and <a href="https://people.ceu.edu/guenther_knoblich"  target="_blank">Guenther Knoblich</a> </p>
+
+<img src="/assets/images/Chinese whispers2.png">
