@@ -19,7 +19,7 @@ author_profile: true
 
 <p><span style="color: #000000;"><strong>2023</strong></span></p>
 
-<p style="font-size: 80%;"><b>Woźniak, M.</b>, McEllin, L., Hohwy, J., Ciaunica, A. (in print). Depersonalization affects self-prioritization of bodily, but not abstract self-related information <i>Journal of Experimental Psychology: Human Perception and Performance</i>. <a href="https://psyarxiv.com/gsfy3" target="_blank">Preprint</a></p>
+<p style="font-size: 80%;"><b>Woźniak, M.</b>, McEllin, L., Hohwy, J., Ciaunica, A. (in print). Depersonalization affects self-prioritization of bodily, but not abstract self-related information <i>Journal of Experimental Psychology: Human Perception and Performance, 49</i>(11), 1447. <a href="https://psyarxiv.com/gsfy3" target="_blank">Preprint</a></p>
 
 <p><span style="color: #000000;"><strong>2022</strong></span></p>
 
