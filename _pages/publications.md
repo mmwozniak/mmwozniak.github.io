@@ -11,7 +11,7 @@ author_profile: true
 <ul style="font-size: 80%;">
   <p style="text-align:center;">
     <li><a href="https://scholar.google.de/citations?user=LDYVfiQAAAAJ&hl=en" target="_blank">Google Scholar</a></li>
-    <li><a href="https://www.researchgate.net/profile/Mateusz-Wozniak-6" target="_blank">ResearchGate</a></li>
+    <li><a href="https://www.researchgate.net/profile/Mateusz-Wozniak-6" target="_blank">ResearchGate</a>: all articles available to download here</li>
   </p>
 </ul>
 
@@ -19,7 +19,8 @@ author_profile: true
 
 <p><span style="color: #000000;"><strong>2023</strong></span></p>
 
-<p style="font-size: 80%;"><b>Woźniak, M.</b>, McEllin, L., Hohwy, J., Ciaunica, A. (in print). Depersonalization affects self-prioritization of bodily, but not abstract self-related information <i>Journal of Experimental Psychology: Human Perception and Performance, 49</i>(11), 1447. <a href="https://psyarxiv.com/gsfy3" target="_blank">Preprint</a></p>
+<p style="font-size: 80%;"><b>Woźniak, M.</b>, McEllin, L., Hohwy, J., Ciaunica, A. (2023). Depersonalization affects self-prioritization of bodily, but not abstract self-related information <i>Journal of Experimental Psychology: Human Perception and Performance, 49</i>(11), 1447–1459 <a href="https://doi.org/10.1037/xhp0001153" target="_blank">https://doi.org/10.1037/xhp0001153</a></p>
+
 
 <p><span style="color: #000000;"><strong>2022</strong></span></p>
 
