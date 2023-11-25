@@ -11,7 +11,7 @@ author_profile: true
 <ul style="font-size: 80%;">
   <p style="text-align:center;">
     <li><a href="https://scholar.google.de/citations?user=LDYVfiQAAAAJ&hl=en" target="_blank">Google Scholar</a></li>
-    <li><a href="https://www.researchgate.net/profile/Mateusz-Wozniak-6" target="_blank">ResearchGate</a>: all articles available to download here</li>
+    <li><a href="https://www.researchgate.net/profile/Mateusz-Wozniak-6" target="_blank">ResearchGate</a>: all articles are available to download here</li>
   </p>
 </ul>
 
