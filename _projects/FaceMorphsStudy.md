@@ -23,7 +23,7 @@ title: "What happens when I identify with an avatar face?"
 
 <h2>STUDY 4: WHEN WE IDENTIFY WITH AN AVATAR FACE WE "ESTRANGE" OUR REAL FACE </h2>
 
-<img src="/assets/images/Self_dissolution_001.jpg">
+<img src="/assets/images/Self_dissolution_001.jpg" width="50%">
 
 <p>Article: M. Woźniak, K. Friebe, G. Knoblich & L. Maister <a href="https://osf.io/preprints/psyarxiv/92vkb"  target="_blank">"Identifying with an avatar face changes perceptual representation of one’s real face"</a></p>
 
