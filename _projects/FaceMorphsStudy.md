@@ -27,7 +27,7 @@ title: "What happens when I identify with an avatar face?"
 
 <p>Article: M. Woźniak, K. Friebe, G. Knoblich & L. Maister <a href="https://osf.io/preprints/psyarxiv/92vkb"  target="_blank">"Identifying with an avatar face changes perceptual representation of one’s real face"</a></p>
 
-<h2>STUDY 5: ...AND AVATAR SELF-IDENTIFICATION MIGHT BE LINKED WITH DEPERSONALIZATION </h2>
+<h2>STUDY 5: ...AND AVATAR SELF-IDENTIFICATION MIGHT BE ASSOCIATED WITH DEPERSONALIZATION </h2>
 
 <p>Article: M. Woźniak, L. McEllin, J. Hohwy & A. Ciaunica <a href="https://psycnet.apa.org/doiLanding?doi=10.1037%2Fxhp0001153"  target="_blank">"Depersonalization affects self-prioritization of bodily, but not abstract self-related information"</a></p>
 <p>Article: A. Ciaunica, L. McEllin, J. Kiverstein, V. Gallese, J. Hohwy & M. Woźniak <a href="https://www.nature.com/articles/s41598-022-07657-8"  target="_blank">"Zoomed out: digital media use and depersonalization experiences during the COVID-19 lockdown"</a></p>
