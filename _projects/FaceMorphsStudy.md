@@ -7,7 +7,7 @@ title: "What happens when I identify with an avatar face?"
   
 <p>When we play computer games with often take control over a body of another person. Lara Croft, Gerald of Rivia, or one of a dozen characters from any fighting game. In such case, we "inhabit" that another person's body, at least for as long as we continue playing. But what happens in our mind and brain when in such situation? In a series of studies we tried to answer this question. </p>
 
-<p style="font-size: 120%">STUDY 1: WE ARE FASTER TO DETECT OUR AVATAR FACE </p>
+<h2>STUDY 1: WE ARE FASTER TO DETECT OUR AVATAR FACE </h2>
 
 <p>Article: M. Woźniak & G. Knoblich <a href="https://journals.sagepub.com/doi/abs/10.1177/1747021819832981"  target="_blank">"Self-prioritization of fully unfamiliar stimuli"</a></p>
 
