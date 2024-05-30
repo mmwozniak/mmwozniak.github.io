@@ -19,7 +19,7 @@ author_profile: true
 
 <p><span style="color: #000000;"><strong>2024</strong></span></p>
 
-<p style="font-size: 80%;"><b>Woźniak, M.</b>, Ari, I., De Tommaso, D., Wykowska, A. (accepted). The influence of autonomy of a teleoperated robot on user's objective and subjective performance <i>International Conference on Robot and Human Interactive Communication (RO-MAN) </p>
+<p style="font-size: 80%;"><b>Woźniak, M.</b>, Ari, I., De Tommaso, D., Wykowska, A. (accepted). The influence of autonomy of a teleoperated robot on user's objective and subjective performance <i>International Conference on Robot and Human Interactive Communication (RO-MAN)</i> </p>
 
 <p><span style="color: #000000;"><strong>2023</strong></span></p>
 
