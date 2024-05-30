@@ -19,8 +19,11 @@ author_profile: true
 
 <p><span style="color: #000000;"><strong>2023</strong></span></p>
 
-<p style="font-size: 80%;"><b>Woźniak, M.</b>, McEllin, L., Hohwy, J., Ciaunica, A. (2023). Depersonalization affects self-prioritization of bodily, but not abstract self-related information <i>Journal of Experimental Psychology: Human Perception and Performance, 49</i>(11), 1447–1459 <a href="https://doi.org/10.1037/xhp0001153" target="_blank">https://doi.org/10.1037/xhp0001153</a></p>
+<p style="font-size: 80%;"><b>Woźniak, M.</b>, Ari, I., De Tommaso, D., Wykowska, A. (accepted). The influence of autonomy of a teleoperated robot on user's objective and subjective performance <i>International Conference on Robot and Human Interactive Communication (RO-MAN)</p>
 
+<p><span style="color: #000000;"><strong>2023</strong></span></p>
+
+<p style="font-size: 80%;"><b>Woźniak, M.</b>, McEllin, L., Hohwy, J., Ciaunica, A. (2023). Depersonalization affects self-prioritization of bodily, but not abstract self-related information <i>Journal of Experimental Psychology: Human Perception and Performance, 49</i>(11), 1447–1459 <a href="https://doi.org/10.1037/xhp0001153" target="_blank">https://doi.org/10.1037/xhp0001153</a></p>
 
 <p><span style="color: #000000;"><strong>2022</strong></span></p>
 
