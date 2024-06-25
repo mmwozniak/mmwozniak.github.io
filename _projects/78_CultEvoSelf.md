@@ -1,6 +1,6 @@
 ---
 
-title: "Cultural Evolution of Group Identity"
+title: "Cultural evolution of group identity"
 
 ---
 
