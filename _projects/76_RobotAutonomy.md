@@ -1,6 +1,6 @@
 ---
 
-title: "Robot autonomy in the context of teleoperation"
+title: "Robot autonomy in human-robot interaction"
 
 ---
 
