@@ -1,6 +1,6 @@
 ---
 
-title: "Communication and Action Predictability"
+title: "Communication and action predictability"
 
 ---
 
