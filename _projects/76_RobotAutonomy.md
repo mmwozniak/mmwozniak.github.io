@@ -13,4 +13,4 @@ title: "Robot autonomy in human-robot interaction"
 <p style="font-size: 80%;">Woźniak, M., Ari, I., De Tommaso, D., Wykowska, A. <a href="https://osf.io/preprints/osf/ky5bz"  target="_blank">"The influence of autonomy of a teleoperated robot on user's objective and subjective performance"</a> </p>
 
 
-<img src="/assets/images/x.png">
+<img src="/assets/images/TeleRobotC_04.jfif">
