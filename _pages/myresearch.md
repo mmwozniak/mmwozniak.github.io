@@ -18,6 +18,10 @@ In my theoretical work I attempt to answer the questions: What is the self, how 
   Self and identity are extremely important in a wide range of disciplines starting with philosophy, through neuroscience, psychology, and ending with sociology and political science. Understading what is our self has also a range of practical implications in medicine, robotics, virtual reality, joint action, and politics. However, the self is usually understood in radically different ways in each of these contexts. My theoretical work attempts to show how these different understandings relate to each other, especially in the context of cognitive mechanisms that underpin them. 
 </p>
 
+<p>For relevant publications see:</p>
+<p style="font-size: 80%;"><b>Woźniak, M.</b> (2018) “I” and “Me”: the self in the context of consciousness. <i>Frontiers in Psychology, 9</i>, 1656. <a href="https://doi.org/10.3389/fpsyg.2018.01656" target="_blank">https://doi.org/10.3389/fpsyg.2018.01656</a></p>
+<p style="font-size: 80%;"><b>Woźniak, M.</b> (accepted). How to grow a self: development of self-representation in the Bayesian brain. <i>Frontiers in Human Neuroscience</i></p>
+
 <h2>RESEARCH</h2>
 
 <h3>Plasticity of self-representation</h3>
