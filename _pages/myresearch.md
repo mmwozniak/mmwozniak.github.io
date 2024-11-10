@@ -31,12 +31,17 @@ There are aspects of the self that are stable across our lives and others that c
 <h3>Neural mechanisms of self-representation</h3>
 <p style="font-size: 80%;">
 I am also interested in how we represent ourselves on a neural level. I conduct EEG and FMRI studies looking at
-  neural correlates of processing of newly self-associated information. I am especially interested in investigating how we incorporate avatar and robot bodies into our self-representation and whether it involves neurocognitive processes that are primarily responsible for our abstract or bodily self-representation.
+neural correlates of processing of newly self-associated information. I am especially interested in investigating how we incorporate avatar and robot bodies into our self-representation and whether it involves neurocognitive processes that are primarily responsible for our abstract or bodily self-representation.
+</p>
+
+<h3>Autonomy in Human-Robot and Human-AI Interaction</h3>
+<p style="font-size: 80%;">
+Until recently robots were either teleoperated by people or programmed to act in a relatively transparent and straightforward way. However, recent developments in artificial intelligence allowed robots, as well as other forms of artificial agents, to act with a high degree of autonomy. In this line of research I investigate how autonomy influences interactions with the interactive robots, as well as our tendency to self-identify with semi-autonomous robots that we control. These results are intended to help build better autonomous robotic and AI systems. 
 </p>
 
 <h3>Self and other in joint action</h3>
 <p style="font-size: 80%;">
- The ability to distinguish between self and other is critical when we interact with other people. A part of my research involves investigating neurocognitive mechanisms at play when we either do a task together with another person (joint-action partner), or when we act through another agent (our avatar). 
+The ability to distinguish between self and other is critical when we interact with other people. A part of my research involves investigating neurocognitive mechanisms at play when we either do a task together with another person (joint-action partner), or when we act through another agent (our avatar). 
 </p>
 
 <h3>Cultural evolution of the self</h3>
