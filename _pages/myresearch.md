@@ -19,7 +19,7 @@ In my theoretical work I attempt to answer the questions: What is the self, how 
 </p>
 
 <p style="font-size: 70%;"><b>Woźniak, M.</b> (2018) <a href="https://doi.org/10.3389/fpsyg.2018.01656" target="_blank">“I” and “Me”: the self in the context of consciousness.</a> <i>Frontiers in Psychology, 9</i>, 1656.</p>
-<p style="font-size: 70%;"><b>Woźniak, M.</b> (accepted). <a href="https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2024.1441931" target="_blank">How to grow a self: development of self-representation in the Bayesian brain.</a> <i>Frontiers in Human Neuroscience</i></p>
+<p style="font-size: 70%;"><b>Woźniak, M.</b> (2024). <a href="https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2024.1441931" target="_blank">How to grow a self: development of self-representation in the Bayesian brain.</a> <i>Frontiers in Human Neuroscience, 18</i></p>
 
 <h2>RESEARCH</h2>
 
