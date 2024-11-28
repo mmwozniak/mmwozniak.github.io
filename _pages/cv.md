@@ -10,7 +10,7 @@ author_profile: true
 
 <p style="font-size: 80%;"><strong> Postdoctoral Researcher in Social Robotics </strong>(2023 - present) <br/>
 <a href="https://www.iit.it/web/social-cognition-in-human-robot-interaction" target="_blank">Social Cognition in Human-Robot Interaction Lab</a> <br/>
-Italian Institute of Technology, Genova, Italy<br/></p>
+Italian Institute of Technology, Genoa, Italy<br/></p>
   
 <p><strong><span style="color: #000000;">POSTDOCTORAL RESEARCH EMPLOYMENT</span></strong></p>
 
