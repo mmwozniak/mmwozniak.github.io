@@ -26,7 +26,7 @@ keywords:
           Italian Institute of Technology <br>
           Erzelli Campus, S4HRI Lab <br>
           Via Enrico Melen 83 <br>
-          16152 Genova <br>
+          16152 Genoa <br>
           Italy
         </p>
       </td>
