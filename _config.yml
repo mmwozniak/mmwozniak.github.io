@@ -20,7 +20,7 @@ title                    : "Home"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Mateusz Woźniak"
-description              : "Mateusz Woźniak | Italian Institute of Technology, Genova"
+description              : "Mateusz Woźniak | Italian Institute of Technology, Genoa"
 url                      : "https://mmwozniak.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : "mmwozniak" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -109,7 +109,7 @@ author:
   name             : "Mateusz Wozniak"
   avatar           : "/assets/images/MW_pic_001.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Cognitive neuroscientist investigating self and identity"
-  location         : "Genova, IT"
+  location         : "Genoa, IT"
   email            :
   links:
     - label: "Email"
