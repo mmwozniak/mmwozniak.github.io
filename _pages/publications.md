@@ -19,6 +19,12 @@ author_profile: true
 
 <p><span style="color: #000000;"><strong>2024</strong></span></p>
 
+<p style="font-size: 80%;"><b>Woźniak, M.</b>, Ari, I., De Tommaso, D., Wykowska, A. (2025). We-information can facilitate performance in joint teleoperation over a humanoid robot. <i>34th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)</i> </p>
+
+<p style="font-size: 80%;"><b>Woźniak, M.</b>, Van Buuren, M., Tacikowski, P. (2025). Self-concept plasticity: Behavioral and neural evidence. <i>Frontiers in Human Neuroscience, 19</i>, 1584910 <a href="https://doi.org/10.3389/fnhum.2025.1584910">https://doi.org/10.3389/fnhum.2025.1584910</a></p>
+
+<p><span style="color: #000000;"><strong>2024</strong></span></p>
+
 <p style="font-size: 80%;"><b>Woźniak, M.</b> (2024). How to grow a self: development of self-representation in the Bayesian brain. <i>Frontiers in Human Neuroscience, 18</i> <a href="https://doi.org/10.3389/fnhum.2024.1441931">https://doi.org/10.3389/fnhum.2024.1441931</a></p>
 
 <p style="font-size: 80%;"><b>Woźniak, M.</b>, Ari, I., De Tommaso, D., Wykowska, A. (2024). The influence of autonomy of a teleoperated robot on user's objective and subjective performance. <i>33rd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)</i> <a href="https://doi.org/10.1109/RO-MAN60168.2024.10731374">https://doi.org/10.1109/RO-MAN60168.2024.10731374</a></p>
