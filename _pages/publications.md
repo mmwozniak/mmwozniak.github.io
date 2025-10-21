@@ -17,7 +17,7 @@ author_profile: true
 
 <p><span style="color: #000000;"><strong>ACADEMIC PUBLICATIONS</strong></span></p>
 
-<p><span style="color: #000000;"><strong>2024</strong></span></p>
+<p><span style="color: #000000;"><strong>2025</strong></span></p>
 
 <p style="font-size: 80%;"><b>Woźniak, M.</b>, Ari, I., De Tommaso, D., Wykowska, A. (2025). We-information can facilitate performance in joint teleoperation over a humanoid robot. <i>34th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)</i> </p>
 
