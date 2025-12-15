@@ -20,7 +20,7 @@ keywords:
         <img src="/assets/images/MW_pic_001.jpg">
       </td>
       <td width="50%">
-        <p><b>Email address:</b> <br>mateusz.wozniak [at] iit.it</p>
+        <p><b>Email address:</b> <br>mateusz.m.wozniak [at] uj.edu.pl</p>
         <p>
           <b>Mail address:</b> <br>
           Italian Institute of Technology <br>
