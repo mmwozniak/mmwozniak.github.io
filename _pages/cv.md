@@ -8,7 +8,7 @@ author_profile: true
 
 <p><strong><span style="color: #000000;">CURRENT EMPLOYMENT</span></strong></p>
 
-<p style="font-size: 80%;"><strong> Assistant Professor (Adiunkt) </strong>(2025 - present) <br/>
+<p style="font-size: 80%;"><strong> Assistant Professor (Adiunkt) of Applied Psychology </strong>(2025 - present) <br/>
 <a href="https://ips.uj.edu.pl/pl_PL/pracownicy/sklad-osobowy/mateusz-wozniak" target="_blank">Institute of Applied Psychology</a> <br/>
 Jagiellonian University, Cracow, Poland<br/></p>
 
