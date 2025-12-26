@@ -8,7 +8,12 @@ author_profile: true
 
 <p><strong><span style="color: #000000;">CURRENT EMPLOYMENT</span></strong></p>
 
-<p style="font-size: 80%;"><strong> Postdoctoral Researcher in Social Robotics </strong>(2023 - present) <br/>
+<p style="font-size: 80%;"><strong> Assistant Professor (Adiunkt) </strong>(2025 - present) <br/>
+<a href="https://ips.uj.edu.pl/pl_PL/pracownicy/sklad-osobowy/mateusz-wozniak" target="_blank">Institute of Applied Psychology</a> <br/>
+Jagiellonian University, Cracow, Poland<br/></p>
+
+
+<p style="font-size: 80%;"><strong> Postdoctoral Researcher in Social Robotics </strong>(2023 -2025, 2026 - present) <br/>
 <a href="https://www.iit.it/web/social-cognition-in-human-robot-interaction" target="_blank">Social Cognition in Human-Robot Interaction Lab</a> <br/>
 Italian Institute of Technology, Genoa, Italy<br/></p>
   
