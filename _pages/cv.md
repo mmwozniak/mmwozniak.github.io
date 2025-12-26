@@ -13,13 +13,13 @@ author_profile: true
 Jagiellonian University, Cracow, Poland<br/></p>
 
 
-<p style="font-size: 80%;"><strong> Postdoctoral Researcher in Social Robotics </strong>(2023 -2025, 2026 - present) <br/>
+<p style="font-size: 80%;"><strong> Postdoctoral Researcher in Social Robotics </strong>(2023-2025, 2026 - present) <br/>
 <a href="https://www.iit.it/web/social-cognition-in-human-robot-interaction" target="_blank">Social Cognition in Human-Robot Interaction Lab</a> <br/>
 Italian Institute of Technology, Genoa, Italy<br/></p>
   
 <p><strong><span style="color: #000000;">POSTDOCTORAL RESEARCH EMPLOYMENT</span></strong></p>
 
-<p style="font-size: 80%;"><strong> Postdoctoral Researcher in Cognitive Science </strong>(2020 - 2023) <br/>
+<p style="font-size: 80%;"><strong> Postdoctoral Researcher in Cognitive Science </strong>(2020-2023) <br/>
 <a href="https://socialmind.ceu.edu/somby" target="_blank">Social Mind and Body Lab</a> <br/>
 Central European University, Vienna, Austria<br/></p>
 
