@@ -17,6 +17,14 @@ author_profile: true
 
 <p><span style="color: #000000;"><strong>ACADEMIC PUBLICATIONS</strong></span></p>
 
+<p><span style="color: #000000;"><strong>2026</strong></span></p>
+
+<p style="font-size: 80%;"><b>Woźniak, M.</b>, De Tommaso, D., Knoblich, G., Wykowska, A. (accepted). The influence of robot autonomy on sense of agency and trust towards a robot. <i>International Journal of Social Robotics</i> </p>
+
+<p style="font-size: 80%;"><b>Woźniak, M.</b>, Charbonneau, M., Knoblich, G. (in print). Biases in cultural transmission of information about a minimal ingroup <i>Scientific Reports</i> </p>
+
+<p style="font-size: 80%;"><b>Woźniak, M.</b>, Scattolin, M., Provenzano, L., De Tommaso, D., Aglioti, S.M., Wykowska, A. (in print). Non-immersive robot teleoperation does not reliably affect egocentric dishonesty but can influence altruistic dishonesty. <i>iScience</i> </p>
+
 <p><span style="color: #000000;"><strong>2025</strong></span></p>
 
 <p style="font-size: 80%;"><b>Woźniak, M.</b>, Ari, I., De Tommaso, D., Wykowska, A. (2025). We-information can facilitate performance in joint teleoperation over a humanoid robot. <i>34th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)</i> </p>
