@@ -108,8 +108,8 @@ analytics:
 author:
   name             : "Mateusz Wozniak"
   avatar           : "/assets/images/MW_pic_001.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Cognitive neuroscientist investigating self and identity"
-  location         : "Genoa, IT"
+  bio              : ""
+  location         : "Cracow, PL & Genoa, IT"
   email            :
   links:
     - label: "Email"
