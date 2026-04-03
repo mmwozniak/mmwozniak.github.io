@@ -1,29 +1,34 @@
 ---
 
 title: "Morality and ethics in interaction with artificial agents"
+excerpt: "When we harm someone through a robot or a game avatar, is it still really us doing the harming? Do we feel less responsible? Are we more willing to cross moral lines?"
 
 ---
 
-<p style="font-size: 80%;">When we interact with artificial agents — whether virtual characters in a game, robots in a factory, or autonomous AI systems — our moral intuitions and behavior can shift in surprising ways. Does the physical or psychological distance introduced by an artificial intermediary change how willing we are to harm others? Does acting <i>through</i> a robot or avatar reduce our sense of responsibility? Do we treat digital entities as moral patients worthy of consideration? This project spans over fifteen years of research on these questions, from early studies in virtual reality to current work on robot teleoperation.</p>
+<p style="font-size: 80%;">When we harm someone through a robot or a game avatar — when our actions travel through an artificial body — is it still really us doing the harming? Do we feel less responsible? Are we more willing to cross moral lines? This project investigates the moral psychology of acting through artificial agents, from virtual characters in a computer game to humanoid robots in a real lab.</p>
 
-<h2>THE BEGINNINGS: WILLINGNESS TO HARM IN VIRTUAL REALITY (MASTER'S THESIS, 2010)</h2>
+<h2>THE BEGINNING: A MILGRAM EXPERIMENT INSIDE A COMPUTER GAME (MASTER'S THESIS, 2010)</h2>
 
-<p style="font-size: 80%;">This line of research began with my master's thesis at the Jagiellonian University, in which I built a virtual replication of the classic Milgram obedience paradigm. Using a custom-designed program called <i>Fallout: High Voltage</i>, participants administered shocks to a virtual victim while controlling an avatar. I investigated how identification with the avatar and the so-called <b>Proteus Effect</b> — the tendency to behave in ways that conform to one's avatar's appearance — influence willingness to inflict virtual suffering.</p>
+<p style="font-size: 80%;">This line of research began with my master's thesis, in which I built a virtual version of the classic Milgram obedience experiment. In Milgram's original studies, participants were instructed to administer electric shocks to another person — and most complied, even when the shocks appeared harmful, because an authority figure told them to. My version took place inside a computer game called <i>Fallout: High Voltage</i>, where participants controlled an avatar and decided whether to keep "shocking" a digital character.</p>
 
-<p style="font-size: 80%;">The results revealed a complex interplay of avatar appearance, the avatar's name, and the participant's gender on their willingness to continue delivering shocks. Crucially, despite the explicitly virtual nature of the setting, participants showed a strong tendency to anthropomorphize the digital victim — attributing human-like feelings to the on-screen character — consistent with the <i>Media Equation</i> theory. This suggests that our moral intuitions are engaged even in interactions with clearly artificial entities, a finding that remains highly relevant in the era of humanoid robots and AI.</p>
+<p style="font-size: 80%;">I varied the avatar's appearance, its name, and whether it was associated with a soldier role — a social identity strongly linked to obedience and use of force. The results showed complex effects of all these factors on participants' willingness to continue. But the most striking finding was qualitative: despite the setting being entirely virtual and clearly a game, participants showed a strong tendency to treat the digital victim as a being with feelings. Even an obviously artificial character was enough to engage our moral intuitions — a finding that resonates more than ever in the age of humanoid robots and AI.</p>
 
 <p style="font-size: 80%;">Woźniak, M. (2010). <i>Willingness to inflict suffering in the world of a computer game: Identity and social role in virtual reality</i>. Master's thesis, Jagiellonian University, Kraków (written in Polish).</p>
 
-<h2>DOES ACTING THROUGH A ROBOT CHANGE MORAL BEHAVIOR?</h2>
+<h2>DOES ACTING THROUGH A ROBOT CHANGE HOW HONEST WE ARE?</h2>
 
-<p style="font-size: 80%;">Decades after the virtual reality studies, similar questions arise in the context of robot teleoperation. When people act through a humanoid robot body — seeing and doing things through its sensors and actuators — do they become more dishonest? Does the physical separation and the sense of acting <i>as</i> a robot reduce moral inhibitions, similar to how acting as an avatar may change behavior in games?</p>
+<p style="font-size: 80%;">Years later, the same question arose in a very different context: real robot teleoperation. When people control a humanoid robot via a screen — seeing the world through its camera, acting through its body — does the physical separation make them more likely to cheat?</p>
 
-<p style="font-size: 80%;">We addressed this in a study using non-immersive, screen-based teleoperation of the humanoid robot iCub. Participants performed a task either in person or via teleoperation in a first-person (1PP) or third-person (3PP) perspective, and we measured both <i>egocentric dishonesty</i> (cheating to gain a personal reward) and <i>altruistic dishonesty</i> (being overly generous to a partner at one's own expense).</p>
+<div style="text-align: center;">
+  <p><img src="/assets/images/Honesty_setup.jpg" width="80%"></p>
+</div>
 
-<p style="font-size: 80%;">Teleoperation produced a modest but reliable sense of embodiment and high sense of agency over the robot. However, it did not reliably increase egocentric dishonesty. On the contrary, participants were more altruistically dishonest — more generous toward their partner — when teleoperating from a first-person compared to a third-person perspective. In 3PP, egocentric dishonesty correlated positively with specific embodiment experiences such as feeling out of one's body or sensing that one's actions are carried out by the robot. These findings suggest that the relationship between artificial embodiment and moral behavior is nuanced and perspective-dependent, and that non-immersive teleoperation does not straightforwardly disinhibit selfish dishonest behavior.</p>
+<p style="font-size: 80%;">We had participants perform a card game task either in person or while teleoperating the iCub humanoid robot — from either a first-person (seeing through the robot's eyes) or third-person (watching from behind) camera view. We tracked two types of dishonesty: <i>cheating</i> (lying to gain a personal reward) and <i>generosity</i> (lying to give more to your partner at your own expense).</p>
 
-<p style="font-size: 80%;">Woźniak, M., Scattolin, M., Provenzano, L., De Tommaso, D., Aglioti, S.M. & Wykowska, A. (2026). <a href="https://doi.org/10.1016/j.isci.2026.114645"  target="_blank">"Non-immersive robot teleoperation does not reliably affect egocentric dishonesty but can influence altruistic dishonesty"</a>. <i>iScience, 29</i>, 114645.</p>
+<p style="font-size: 80%;">Teleoperation did not make people cheat more. But it did make them more generous — especially when operating in first person. This was unexpected: we had assumed that acting through a robot might encourage more selfish behavior by reducing moral inhibitions, but instead it seemed to create a sense of closeness with the partner. The moral effects of artificial embodiment are far from simple — and can go in surprising directions.</p>
+
+<p style="font-size: 80%;">Woźniak, M., Scattolin, M., Provenzano, L., De Tommaso, D., Aglioti, S.M. & Wykowska, A. (2026). <a href="https://doi.org/10.1016/j.isci.2026.114645" target="_blank">"Non-immersive robot teleoperation does not reliably affect egocentric dishonesty but can influence altruistic dishonesty"</a>. <i>iScience, 29</i>, 114645.</p>
 
 <h2>ONGOING AND FUTURE WORK</h2>
 
-<p style="font-size: 80%;">This project is actively growing. Ongoing and planned studies continue to investigate the moral psychology of human-robot and human-AI interaction, including questions about how the perceived autonomy, intentionality, and apparent morality of artificial agents shape human moral judgment and behavior. Results will be added as they become available.</p>
+<p style="font-size: 80%;">This project is actively growing. Ongoing studies continue to explore how acting through artificial agents shapes moral judgment, perceived responsibility, and ethical behavior. Results will be added as they become available.</p>

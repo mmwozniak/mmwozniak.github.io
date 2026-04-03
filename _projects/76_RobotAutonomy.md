@@ -1,21 +1,36 @@
 ---
 
 title: "Robot autonomy in human-robot interaction"
+excerpt: "When a robot stops following our commands and starts making its own decisions, how does that change the way we feel about it — and about ourselves?"
 
 ---
 
-<p style="font-size: 80%;">Robots are becoming more and more autonomous with each day. It means that they stop being passive executors of commands that we issue to them, and become active partners of interaction with us. Therefore, there is a shift from control over robots to interaction with them. While robots that are under our control can be understood as our physical avatars, this interpretation becomes more complicated when robots gain some level of autonomy. In this research topic across several studies we addressed the issue of how we perceive robots that display different forms of autonomy.</p>
+<p style="font-size: 80%;">When a robot stops following our commands and starts making its own decisions, how does that change the way we feel about it — and about ourselves? Robots are becoming more and more autonomous, shifting from passive tools we control to active partners we interact with. In a series of studies, we investigated what happens psychologically when the robot takes the wheel.</p>
 
-<p style="font-size: 80%;"><b>How different forms of robot autonomy influence our sense of control and trust towards the robot</b></p>
-<p style="font-size: 80%;">Woźniak, M., De Tommaso, D., Knoblich, G., Wykowska, A. (accepted, <i>International Journal of Social Robotics</i>). <a href="https://osf.io/preprints/psyarxiv/jafvp"  target="_blank">"The influence of robot autonomy on sense of agency and trust towards a robot"</a></p>
-<p style="font-size: 80%;">In this study we presented participants with a humanoid robot avatar performing actions with varying degrees of autonomy — from full teleoperation by a human to fully autonomous behavior — and examined how the level of autonomy influenced their sense of agency over the robot and their trust towards it. We found that higher robot autonomy reduced sense of agency, while trust was shaped in more complex, autonomy-dependent ways.</p>
+<h2>HOW MUCH DO YOU TRUST A ROBOT THAT ACTS ON ITS OWN?</h2>
 
-<p style="font-size: 80%;"><b>How robot autonomy can influence our objective and subjective performance</b></p>
-<p style="font-size: 80%;">Woźniak, M., Ari, I., De Tommaso, D., Wykowska, A. (2024). <a href="https://doi.org/10.1109/RO-MAN60168.2024.10731374"  target="_blank">"The influence of autonomy of a teleoperated robot on user's objective and subjective performance"</a>. <i>33rd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)</i></p>
-<p style="font-size: 80%;">This study investigated how different levels of robot autonomy during teleoperation affect both the objective task performance and the subjective experience of the operator. Participants teleoperated a humanoid robot that offered varying degrees of autonomous assistance. Results showed that while autonomy can improve task efficiency, it also modulates the operator's sense of control and perceived responsibility for the robot's actions.</p>
+<p style="font-size: 80%;">We showed participants a game in which they played alongside four different robot partners — ranging from one that always did exactly what the player wanted, to one that acted fully on its own using AI. In between were robots that sometimes used their intelligence to pick a better option or achieve the same outcome in a different way.</p>
 
-<p style="font-size: 80%;"><b>How the robot's apparent motives shape our neural processing of its autonomous behavior</b></p>
+<div style="text-align: center;">
+  <p><img src="/assets/images/RobotAutonomy_conditions.png" width="85%"></p>
+</div>
+
+<p style="font-size: 80%;">As expected, the more the robot acted independently, the less participants felt in control. But the effect on <i>trust</i> was more surprising: trust did not simply drop as autonomy increased. Instead, it depended on what the robot did with its autonomy — whether it used it to help or to act unpredictably.</p>
+
+<p style="font-size: 80%;">Woźniak, M., De Tommaso, D., Knoblich, G., Wykowska, A. (accepted, <i>International Journal of Social Robotics</i>). <a href="https://osf.io/preprints/psyarxiv/jafvp" target="_blank">"The influence of robot autonomy on sense of agency and trust towards a robot"</a></p>
+
+<h2>DOES AUTONOMY MAKE YOU BETTER OR WORSE AT THE TASK?</h2>
+
+<p style="font-size: 80%;">In a follow-up study, we had participants teleoperate a real humanoid robot — controlling its movements to complete physical tasks — while the robot offered different levels of autonomous assistance. We tracked both how well they actually performed, and how in control they felt.</p>
+
+<p style="font-size: 80%;">Autonomy helped with efficiency, but at a cost: the more the robot did on its own, the less operators felt responsible for the outcome. This has real implications for designing robots for high-stakes environments where accountability matters.</p>
+
+<p style="font-size: 80%;">Woźniak, M., Ari, I., De Tommaso, D., Wykowska, A. (2024). <a href="https://doi.org/10.1109/RO-MAN60168.2024.10731374" target="_blank">"The influence of autonomy of a teleoperated robot on user's objective and subjective performance"</a>. <i>33rd IEEE RO-MAN</i>.</p>
+
+<h2>DOES THE ROBOT'S MOTIVE MATTER FOR HOW OUR BRAIN RESPONDS?</h2>
+
+<p style="font-size: 80%;">When a robot acts on its own, we can't help asking: <i>why</i> is it doing that? Is it trying to help, is it acting against us, or is it simply broken? In an ongoing EEG study, we record brain activity while participants watch a robot behave in one of these three ways. Preliminary results suggest that the brain responds very differently depending on the robot's apparent intention — even at early stages of processing, well before conscious deliberation kicks in. A full report will be added when the paper is complete.</p>
+
 <p style="font-size: 80%;"><i>Woźniak, M., et al. "The Good, the Bad and the Broken: How Robot's Motives Affect Neural Processing of Robot's Autonomous Behavior" — work in progress.</i></p>
-<p style="font-size: 80%;">In this EEG study we investigate how the perceived intentions behind a robot's autonomous actions modulate neural responses. Participants observe a robot whose behavior appears either beneficial (good), harmful (bad), or erratic (broken). Preliminary findings suggest that these different apparent motives shape EEG components associated with action observation and social evaluation, revealing that the brain is sensitive to the social meaning of robot behavior even at relatively early processing stages. A full report will be added when the paper becomes available.</p>
 
 <img src="/assets/images/TeleRobotC_04.jfif">

@@ -1,23 +1,28 @@
 ---
 
 title: "Communication and action predictability"
+excerpt: "When two people need to coordinate without talking, what do they do? And when they can talk, do they stop trying to be predictable?"
 
 ---
 
-<p style="font-size: 80%;">When two people need to coordinate their actions — for example, agreeing on a meeting point, dividing a task, or synchronising movements — they can use two broad strategies: <i>communication</i> (telling the other person what you intend to do) and <i>action predictability</i> (making your own behavior regular and easy to anticipate). These strategies might seem interchangeable, but are they? And what happens when communication is not available?</p>
+<p style="font-size: 80%;">When two people need to coordinate their actions — picking the same option, moving at the same time, agreeing without a plan — they can do it in two ways: <i>talk about it</i>, or <i>become more predictable</i>. But can they do both at once? And when communication is available, do people stop trying to be predictable at all?</p>
 
-<h2>COMMUNICATION VS. ACTION PREDICTABILITY IN JOINT DECISION-MAKING</h2>
+<h2>THREE EXPERIMENTS, THREE COMMUNICATION CONDITIONS</h2>
 
-<p style="font-size: 80%;">In three experiments, we asked pairs of participants to repeatedly reach joint decisions in a Rock-Paper-Scissors-like task under different communication conditions: no communication at all (Experiment 1), minimal reciprocal communication via custom signals (Experiment 2), or full conventional communication (Experiment 3).</p>
+<div style="text-align: center;">
+  <p><img src="/assets/images/RPS_setup.jpg" width="75%"></p>
+</div>
 
-<p style="font-size: 80%;">We found that when communication was not possible, successful pairs spontaneously increased the predictability of their own actions — essentially becoming more "readable" to their partner. When full conventional communication was available, there was no incentive to increase predictability, and pairs relied on direct messaging instead. Strikingly, pairs in the minimal communication condition combined both strategies: they both increased action predictability <i>and</i> built a shared communication system from scratch.</p>
+<p style="font-size: 80%;">We put pairs of participants in a joint decision task — choosing between options in real time — under three different conditions. In Experiment 1, they couldn't communicate at all. In Experiment 2, they could send minimal signals back and forth (enough to build a shared code, but not use natural language). In Experiment 3, they could talk freely.</p>
 
-<p style="font-size: 80%;">These findings show that communication and action predictability are not mutually exclusive strategies — they are flexibly deployed depending on the situation, and that communication reduces the behavioural constraints otherwise imposed on joint action.</p>
+<p style="font-size: 80%;">When communication was <i>impossible</i>, successful pairs spontaneously started behaving more predictably — essentially making themselves easier to "read" so the partner could anticipate their moves. When full communication was <i>available</i>, there was no incentive to become predictable: pairs simply told each other what they were going to do. Most strikingly, the minimal communication pairs did <i>both</i>: they increased their predictability <i>and</i> invented a shared signaling system from scratch.</p>
 
-<p style="font-size: 80%;">Woźniak, M. & Knoblich, G. (2022). <a href="https://doi.org/10.1098/rsos.220577"  target="_blank">"Communication and action predictability: two complementary strategies for successful cooperation"</a>. <i>Royal Society Open Science, 9</i>, 220577.</p>
+<p style="font-size: 80%;">The takeaway: communication and action predictability are not either/or. They are flexible, complementary tools that people deploy depending on what the situation allows.</p>
 
-<h2>DOES COORDINATING DECISIONS TOGETHER BOOST PROSOCIAL MOTIVATION?</h2>
+<p style="font-size: 80%;">Woźniak, M. & Knoblich, G. (2022). <a href="https://doi.org/10.1098/rsos.220577" target="_blank">"Communication and action predictability: two complementary strategies for successful cooperation"</a>. <i>Royal Society Open Science, 9</i>, 220577.</p>
 
-<p style="font-size: 80%;">A related line of work investigated how the <i>process</i> of coordinating decisions — not just the outcome — affects people's prosocial behavior. In a study using a separate cooperation task, participants who made decisions in a jointly coordinated manner showed greater altruistic motivation (i.e., they were more willing to act for the benefit of their partner) compared to those who decided individually. Importantly, this boost in altruistic motivation was not accompanied by increased trust, suggesting that coordination triggers a distinct social mechanism, perhaps related to a sense of shared fate or joint commitment, rather than simply making partners feel more reliable.</p>
+<h2>DOES COORDINATING TOGETHER MAKE US MORE GENEROUS?</h2>
 
-<p style="font-size: 80%;">Chennells, M., Woźniak, M., Butterfill, S. & Michael, J. (2022). <a href="https://doi.org/10.1371/journal.pone.0272453"  target="_blank">"Coordinated Decision-Making Boosts Altruistic Motivation – But Not Trust"</a>. <i>PLoS ONE, 17</i>(10): e0272453.</p>
+<p style="font-size: 80%;">A related question: does the <i>act</i> of coordinating change how prosocial we are? In a separate experiment, participants who made decisions in a jointly coordinated manner became more willing to act for the benefit of their partner — they were measurably more generous — compared to those who decided alone. But this generosity boost did not come with increased trust. Coordination seems to trigger a specific sense of shared fate or joint commitment, rather than simply making us like our partner more.</p>
+
+<p style="font-size: 80%;">Chennells, M., Woźniak, M., Butterfill, S. & Michael, J. (2022). <a href="https://doi.org/10.1371/journal.pone.0272453" target="_blank">"Coordinated Decision-Making Boosts Altruistic Motivation – But Not Trust"</a>. <i>PLoS ONE, 17</i>(10): e0272453.</p>
