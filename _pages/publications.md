@@ -21,13 +21,16 @@ author_profile: true
 
 <p style="font-size: 80%;"><b>Woźniak, M.</b>, De Tommaso, D., Knoblich, G., Wykowska, A. (accepted). The influence of robot autonomy on sense of agency and trust towards a robot. <i>International Journal of Social Robotics</i> </p>
 
-<p style="font-size: 80%;"><b>Woźniak, M.</b>, Charbonneau, M., Knoblich, G. (2026). Biases in cultural transmission of information about a minimal ingroup <i>Scientific Reports</i> </p>
+<p style="font-size: 80%;">Aczel, B., Szaszi, B., ... <b>Woźniak, M.</b>, ... Nosek, B. (2026). Investigating the analytical robustness of the social and behavioural sciences. <i>Nature, 652</i>, 135–142. <a href="https://www.nature.com/articles/s41586-025-09844-9">https://www.nature.com/articles/s41586-025-09844-9</a></p>
 
-<p style="font-size: 80%;"><b>Woźniak, M.</b>, Scattolin, M., Provenzano, L., De Tommaso, D., Aglioti, S.M., Wykowska, A. (2026). Non-immersive robot teleoperation does not reliably affect egocentric dishonesty but can influence altruistic dishonesty. <i>iScience</i> </p>
+
+<p style="font-size: 80%;"><b>Woźniak, M.</b>, Charbonneau, M., Knoblich, G. (2026). Biases in cultural transmission of information about a minimal ingroup <i>Scientific Reports, 16</i>, 4959 <a href="https://www.nature.com/articles/s41598-026-35241-x">https://www.nature.com/articles/s41598-026-35241-x</a></p>
+
+<p style="font-size: 80%;"><b>Woźniak, M.</b>, Scattolin, M., Provenzano, L., De Tommaso, D., Aglioti, S.M., Wykowska, A. (2026). Non-immersive robot teleoperation does not reliably affect egocentric dishonesty but can influence altruistic dishonesty. <i>iScience, 19</i>(2), 114645 <a href="https://www.cell.com/iscience/fulltext/S2589-0042(26)00020-9">https://www.cell.com/iscience/fulltext/S2589-0042(26)00020-9</a></p>
 
 <p><span style="color: #000000;"><strong>2025</strong></span></p>
 
-<p style="font-size: 80%;"><b>Woźniak, M.</b>, Ari, I., De Tommaso, D., Wykowska, A. (2025). We-information can facilitate performance in joint teleoperation over a humanoid robot. <i>34th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)</i> </p>
+<p style="font-size: 80%;"><b>Woźniak, M.</b>, Ari, I., De Tommaso, D., Wykowska, A. (2025). We-information can facilitate performance in joint teleoperation over a humanoid robot. <i>34th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)</i>, 1587-1594. <a href="https://ieeexplore.ieee.org/document/11217675">https://ieeexplore.ieee.org/document/11217675</a> </p>
 
 <p style="font-size: 80%;"><b>Woźniak, M.</b>, Van Buuren, M., Tacikowski, P. (2025). Self-concept plasticity: Behavioral and neural evidence. <i>Frontiers in Human Neuroscience, 19</i>, 1584910 <a href="https://doi.org/10.3389/fnhum.2025.1584910">https://doi.org/10.3389/fnhum.2025.1584910</a></p>
 
