@@ -23,7 +23,7 @@ author_profile: true
 
 <p style="font-size: 80%;">Haxhi, R., <b>Woźniak, M.</b>, Wykowska, A. (2026). The influence of sense of agency on learning structured regularities: an artificial grammar learning study. <i>Psychological Research, 90 (3), 105</i> </p>
 
-<p style="font-size: 80%;"><b>Woźniak, M.</b>, De Tommaso, D., Knoblich, G., Wykowska, A. (2026). The influence of robot autonomy on sense of agency and trust towards a robot. <i>International Journal of Social Robotics, 18 (56)</i> </p>
+<p style="font-size: 80%;"><b>Woźniak, M.</b>, De Tommaso, D., Knoblich, G., Wykowska, A. (2026). The influence of robot autonomy on sense of agency and trust towards a robot. <i>International Journal of Social Robotics, 18 (56)</i> <a href="https://link.springer.com/article/10.1007/s12369-026-01375-1">https://link.springer.com/article/10.1007/s12369-026-01375-1</a></p> 
 
 <p style="font-size: 80%;">Aczel, B., Szaszi, B., ... <b>Woźniak, M.</b>, ... Nosek, B. (2026). Investigating the analytical robustness of the social and behavioural sciences. <i>Nature, 652</i>, 135–142. <a href="https://www.nature.com/articles/s41586-025-09844-9">https://www.nature.com/articles/s41586-025-09844-9</a></p>
 
