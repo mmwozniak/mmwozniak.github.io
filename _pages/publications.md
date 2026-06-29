@@ -19,10 +19,13 @@ author_profile: true
 
 <p><span style="color: #000000;"><strong>2026</strong></span></p>
 
-<p style="font-size: 80%;"><b>Woźniak, M.</b>, De Tommaso, D., Knoblich, G., Wykowska, A. (accepted). The influence of robot autonomy on sense of agency and trust towards a robot. <i>International Journal of Social Robotics</i> </p>
+<p style="font-size: 80%;"><b>Woźniak, M.</b>, Haxhi, R., De Tommaso, D., Wykowska, A. (accepted). Two Minds, One Body: Neural correlates of processing of we-information during shared control over a humanoid robot. <i>Proceedings of the Royal Society B: Biological Sciences</i> </p>
+
+<p style="font-size: 80%;">Haxhi, R., <b>Woźniak, M.</b>, Wykowska, A. (2026). The influence of sense of agency on learning structured regularities: an artificial grammar learning study. <i>Psychological Research, 90 (3), 105</i> </p>
+
+<p style="font-size: 80%;"><b>Woźniak, M.</b>, De Tommaso, D., Knoblich, G., Wykowska, A. (2026). The influence of robot autonomy on sense of agency and trust towards a robot. <i>International Journal of Social Robotics, 18 (56)</i> </p>
 
 <p style="font-size: 80%;">Aczel, B., Szaszi, B., ... <b>Woźniak, M.</b>, ... Nosek, B. (2026). Investigating the analytical robustness of the social and behavioural sciences. <i>Nature, 652</i>, 135–142. <a href="https://www.nature.com/articles/s41586-025-09844-9">https://www.nature.com/articles/s41586-025-09844-9</a></p>
-
 
 <p style="font-size: 80%;"><b>Woźniak, M.</b>, Charbonneau, M., Knoblich, G. (2026). Biases in cultural transmission of information about a minimal ingroup <i>Scientific Reports, 16</i>, 4959 <a href="https://www.nature.com/articles/s41598-026-35241-x">https://www.nature.com/articles/s41598-026-35241-x</a></p>
 
