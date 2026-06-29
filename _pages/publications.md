@@ -21,7 +21,7 @@ author_profile: true
 
 <p style="font-size: 80%;"><b>Woźniak, M.</b>, Haxhi, R., De Tommaso, D., Wykowska, A. (accepted). Two Minds, One Body: Neural correlates of processing of we-information during shared control over a humanoid robot. <i>Proceedings of the Royal Society B: Biological Sciences</i> </p>
 
-<p style="font-size: 80%;">Haxhi, R., <b>Woźniak, M.</b>, Wykowska, A. (2026). The influence of sense of agency on learning structured regularities: an artificial grammar learning study. <i>Psychological Research, 90 (3), 105</i> </p>
+<p style="font-size: 80%;">Haxhi, R., <b>Woźniak, M.</b>, Wykowska, A. (2026). The influence of sense of agency on learning structured regularities: an artificial grammar learning study. <i>Psychological Research, 90 (3), 105</i> <a href="https://link.springer.com/article/10.1007/s00426-026-02308-3">https://link.springer.com/article/10.1007/s00426-026-02308-3</a></p>
 
 <p style="font-size: 80%;"><b>Woźniak, M.</b>, De Tommaso, D., Knoblich, G., Wykowska, A. (2026). The influence of robot autonomy on sense of agency and trust towards a robot. <i>International Journal of Social Robotics, 18 (56)</i> <a href="https://link.springer.com/article/10.1007/s12369-026-01375-1">https://link.springer.com/article/10.1007/s12369-026-01375-1</a></p> 
 
