@@ -1,9 +1,9 @@
 ---
-title: "Experiments"
+title: "Development"
 layout: collection
 description: Mateusz Woźniak | Central European University
-permalink: /experiments/
-collection: experiments
+permalink: /development/
+collection: development
 entries_layout: grid
 author_profile: true
 
