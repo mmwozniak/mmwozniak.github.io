@@ -284,7 +284,7 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
-  experiments:
+  development:
     output: true
     permalink: /:collection/:path/
 
@@ -316,10 +316,11 @@ defaults:
       layout: single
       author_profile: true
       share: true
-  # _experiments
+  # _development
   - scope:
       path: ""
-      type: experiments
+      type: development
+      
     values:
       layout: single
       author_profile: true
