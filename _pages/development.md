@@ -4,7 +4,7 @@ layout: collection
 description: Mateusz Woźniak | Central European University
 permalink: /development/
 collection: development
-entries_layout: grid
+entries_layout: list
 author_profile: true
 
 ---
