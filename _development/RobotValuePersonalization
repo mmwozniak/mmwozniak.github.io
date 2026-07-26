@@ -1,0 +1,10 @@
+---
+
+title: "Personalization of robot value system"
+
+---
+
+<p style="font-size: 80%;">A pipeline for personailzation of value system of an iCub humanoid robot. 
+Implemented with a Speech-to-Text -> LLM -> Text-to-Speech pipeline.</p>
+
+<p style="font-size: 80%;"> Done together with the S4HRI team </p>
