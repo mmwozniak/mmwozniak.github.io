@@ -23,7 +23,7 @@ author_profile: true
 
 <p style="font-size: 80%;"><b>Woźniak, M.</b>, Gao, Q., Wykowska, A. (accepted). Personalization of basic and moral values guiding LLM-controlled assistant robots. <i>Fourth International Workshop on Value Engineering in AI (VALE 2026), affiliated with the 35th International Joint Conference on Artificial Intelligence (IJCAI-ECAI 2026)</i> </p>
 
-<p style="font-size: 80%;">Ari, I., <b>Woźniak, M.</b>, Tommaso, D., Wykowska, A. (accepted). Causing a robot to display happy but not sad facial expression leads to sensory attenuation. <i>Social Cognitive and Affective Neuroscience</i> <a href="https://doi.org/10.1093/scan/nsag067">https://doi.org/10.1093/scan/nsag067</a></p>
+<p style="font-size: 80%;">Ari, I., <b>Woźniak, M.</b>, Tommaso, D., Wykowska, A. (2026). Causing a robot to display happy but not sad facial expression leads to sensory attenuation. <i>Social Cognitive and Affective Neuroscience</i> <a href="https://doi.org/10.1093/scan/nsag067">https://doi.org/10.1093/scan/nsag067</a></p>
 
 <p style="font-size: 80%;">Haxhi, R., <b>Woźniak, M.</b>, Wykowska, A. (2026). The influence of sense of agency on learning structured regularities: an artificial grammar learning study. <i>Psychological Research, 90 (3), 105</i> <a href="https://link.springer.com/article/10.1007/s00426-026-02308-3">https://link.springer.com/article/10.1007/s00426-026-02308-3</a></p>
 
